@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/lec15array/out" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/lec15array/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/oppslec12/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lec16array3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lec17arr4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/collagedsa/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lec18arr5/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lec19arr6/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lec20_2Darr1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lec22_2Darray3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lec21_2Darray2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lec23_2darray4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/prectice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lec27recursion1stbase/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lec29recurtion2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lec30recurtion3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lec33recurtion6/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lec33recurtion6/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lec34recursion7/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lec35recursion8/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/collage ques/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lec31recurtion4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lec36recursion9" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/javacollection/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/javaproject" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/object oriented programming/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ExpenseTrackerProject" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lec37_bubblesort/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lec39_insertionsort/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lec40_sortingproblems/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lecture53Strings/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lec41_mergesorting/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lec38_selectionsort/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lec42_quicksort/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AtmProject" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/lec15array/out/production" />
+    </content>
+    <content url="file://$MODULE_DIR$/lec15array/out" />
+    <content url="file://$MODULE_DIR$/lec15array/out/production" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
